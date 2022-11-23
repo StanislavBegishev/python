@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6095b26c-f9f4-4464-9358-45762fb0e48e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hw_1/additional_task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_1/additional_task_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_1/additional_task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_1/additional_task_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.leinardi.pycharm.pylint.PylintConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.additional_task_4">
+  <component name="RunManager" selected="Python.additional_task_5">
     <configuration name="additional_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="additional_task_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_1/task_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_1/additional_task_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.additional_task_5" />
         <item itemvalue="Python.additional_task_4" />
         <item itemvalue="Python.additional_task_3" />
         <item itemvalue="Python.additional_task_2" />
         <item itemvalue="Python.additional_task_1" />
-        <item itemvalue="Python.task_6" />
       </list>
     </recent_temporary>
   </component>
